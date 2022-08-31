@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Project_EX1",
+			"Path": "C:\\Users\\User\\Desktop\\Project_EX1\\Source\\Project_EX1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Project_EX1Editor",
+			"Path": "C:\\Users\\User\\Desktop\\Project_EX1\\Source\\Project_EX1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
