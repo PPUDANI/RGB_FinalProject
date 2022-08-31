@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\projectEX\Intermediate\Build\Win64\UE4Editor\Development\projectEX\Definitions.projectEX.h
+C:\Users\User\Desktop\projectEX\Source\projectEX\MyActor.h
+C:\Users\User\Desktop\projectEX\Intermediate\Build\Win64\UE4Editor\Inc\projectEX\MyActor.generated.h
