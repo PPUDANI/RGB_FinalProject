@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectEX2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{80ED437B-5AE3-4858-BBD5-B5CCA9F1BAE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectEX2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectEX2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C266BB7D-04B5-45E0-81AF-971EA2A07495}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectEX2">
+      <UniqueIdentifier>{82AC7E07-0053-4B4F-94F0-822F9F78FBFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectEX2\MovingPlatform.cpp">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectEX2\MovingPlatform.h">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectEX2\ProjectEX2.Build.cs">
+      <Filter>Source\ProjectEX2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectEX2\ProjectEX2.cpp">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectEX2\ProjectEX2.h">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectEX2\ProjectEX2Character.cpp">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectEX2\ProjectEX2Character.h">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectEX2\ProjectEX2GameMode.cpp">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectEX2\ProjectEX2GameMode.h">
+      <Filter>Source\ProjectEX2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
