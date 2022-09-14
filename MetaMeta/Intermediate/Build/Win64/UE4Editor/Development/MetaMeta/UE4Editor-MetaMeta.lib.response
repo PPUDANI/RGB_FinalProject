@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MetaMeta.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\MetaMetaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMeta.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMetaCharacter.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMetaGameMode.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMeta.init.gen.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMetaCharacter.gen.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\MetaMetaGameMode.gen.cpp.obj"
+"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\Default.rc2.res"
+/OUT:"C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\UE4Editor-MetaMeta.lib"
