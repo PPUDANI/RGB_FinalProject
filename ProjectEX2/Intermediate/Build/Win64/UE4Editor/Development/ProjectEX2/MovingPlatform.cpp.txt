@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\ProjectEX2\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX2\Definitions.ProjectEX2.h
-C:\Users\User\Desktop\ProjectEX2\Source\ProjectEX2\MovingPlatform.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
-C:\Users\User\Desktop\ProjectEX2\Intermediate\Build\Win64\UE4Editor\Inc\ProjectEX2\MovingPlatform.generated.h
