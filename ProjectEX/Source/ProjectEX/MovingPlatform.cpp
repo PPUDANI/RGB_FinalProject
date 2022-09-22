@@ -24,8 +24,7 @@ void AMovingPlatform::BeginPlay()
 	}
 
 	StartLocation = GetActorLocation(); // Actor가 배치된 좌표 저장
-	TurningLocation = TargetLocation + StartLocation; // Target의 좌표값은 로컬 좌표이므로 World 좌표로 변환
-	
+	TurningLocation = GetTransform().TransformPosition(TargetLocation);// Target의 좌표값은 로컬 좌표이므로 World 좌표로 변환 
 }
 
 void AMovingPlatform::Tick(float DeltaTime)
@@ -45,7 +44,7 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 		FVector Direction = (TurningLocation - StartLocation).GetSafeNormal(); // Direction은 정규화로 0 ~ 1의 값이 됨
 
-		Location += Speed * DeltaTime * Direction; // Location의 값을
+		Location += Speed * DeltaTime * Direction; // Location의 값을   
 
 		SetActorLocation(Location); // Actor 위치 변경된 Location 좌표로 초기화
 	}

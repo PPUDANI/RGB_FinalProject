@@ -1,2 +1,2 @@
-C:\Users\User\Desktop\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\Definitions.ProjectEX.h
-C:\Users\User\Desktop\ProjectEX\Source\ProjectEX\ProjectEX.h
+C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\Definitions.ProjectEX.h
+C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Source\ProjectEX\ProjectEX.h

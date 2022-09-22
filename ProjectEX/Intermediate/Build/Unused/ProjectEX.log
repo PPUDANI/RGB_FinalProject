@@ -1,11 +1,17 @@
-﻿  Building ProjectEXEditor...
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\User\Documents\GitHub\RGB_FinalProject).
+  Parsing headers for ProjectEXEditor
+    Running UnrealHeaderTool "C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\ProjectEX.uproject" "C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\ProjectEXEditor\Development\ProjectEXEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\User\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ProjectEXEditor in 4.2699573 seconds
+  Building ProjectEXEditor...
   Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 6 processes...
-    [1/4] MovingPlatform.cpp
-    [2/4] UE4Editor-ProjectEX-0049.lib
-       C:\Users\User\Desktop\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0049.lib 라이브러리 및 C:\Users\User\Desktop\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0049.exp 개체를 생성하고 있습니다.
-    [3/4] UE4Editor-ProjectEX-0049.dll
-       C:\Users\User\Desktop\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0049.suppressed.lib 라이브러리 및 C:\Users\User\Desktop\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0049.suppressed.exp 개체를 생성하고 있습니다.
-    [4/4] ProjectEXEditor.target
-  Total time in Parallel executor: 1.65 seconds
-  Total execution time: 2.56 seconds
+  Building 5 actions with 6 processes...
+    [1/5] ServerActor.cpp
+    [2/5] ServerActor.gen.cpp
+    [3/5] UE4Editor-ProjectEX-0070.lib
+       C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0070.lib 라이브러리 및 C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0070.exp 개체를 생성하고 있습니다.
+    [4/5] UE4Editor-ProjectEX-0070.dll
+       C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0070.suppressed.lib 라이브러리 및 C:\Users\User\Documents\GitHub\RGB_FinalProject\ProjectEX\Intermediate\Build\Win64\UE4Editor\Development\ProjectEX\UE4Editor-ProjectEX-0070.suppressed.exp 개체를 생성하고 있습니다.
+    [5/5] ProjectEXEditor.target
+  Total time in Parallel executor: 2.16 seconds
+  Total execution time: 7.45 seconds
