@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MetaMeta.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CD552EC4-F083-4B75-93B8-E12BF751B859}</UniqueIdentifier>
+      <UniqueIdentifier>{952708F6-7D0D-4BD0-A4C2-738493A5AF0A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MetaMeta.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{44FC95F0-4D48-4CF1-A4E7-6E73EC45BBFF}</UniqueIdentifier>
+      <UniqueIdentifier>{DF263CE1-ECDE-4C55-A270-DDC9BE26AC28}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MetaMeta">
-      <UniqueIdentifier>{FD888F0F-43E8-44EE-8B8F-F1D1120F52A7}</UniqueIdentifier>
+      <UniqueIdentifier>{4BAB8DB4-7A49-40B9-B220-4D467649D996}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MetaMeta\MetaMeta.Build.cs">
       <Filter>Source\MetaMeta</Filter>
@@ -51,6 +51,12 @@
       <Filter>Source\MetaMeta</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\MetaMeta\MetaMetaGameMode.h">
+      <Filter>Source\MetaMeta</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MetaMeta\Metang.cpp">
+      <Filter>Source\MetaMeta</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MetaMeta\Metang.h">
       <Filter>Source\MetaMeta</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\MetaMeta\MovingPlatform.cpp">
