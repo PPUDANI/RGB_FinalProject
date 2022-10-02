@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\User\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEX\\ProjectEX.Build.cs",
-		"C:\\Users\\User\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEX.Target.cs",
-		"C:\\Users\\User\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEXEditor.Target.cs"
+		"C:\\Users\\sioni\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEX\\ProjectEX.Build.cs",
+		"C:\\Users\\sioni\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEX.Target.cs",
+		"C:\\Users\\sioni\\Documents\\GitHub\\RGB_FinalProject\\ProjectEX\\Source\\ProjectEXEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
