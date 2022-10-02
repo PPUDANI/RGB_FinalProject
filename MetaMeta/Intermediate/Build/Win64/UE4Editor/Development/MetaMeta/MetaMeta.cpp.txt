@@ -1,2 +1,2 @@
-C:\Users\User\Desktop\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\Definitions.MetaMeta.h
-C:\Users\User\Desktop\MetaMeta\Source\MetaMeta\MetaMeta.h
+C:\Users\User\Documents\GitHub\RGB_FinalProject\MetaMeta\Intermediate\Build\Win64\UE4Editor\Development\MetaMeta\Definitions.MetaMeta.h
+C:\Users\User\Documents\GitHub\RGB_FinalProject\MetaMeta\Source\MetaMeta\MetaMeta.h

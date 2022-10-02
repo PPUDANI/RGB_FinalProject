@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "MetaMeta",
-			"Path": "C:\\Users\\User\\Desktop\\MetaMeta\\Source\\MetaMeta.Target.cs",
+			"Path": "C:\\Users\\User\\Documents\\GitHub\\RGB_FinalProject\\MetaMeta\\Source\\MetaMeta.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MetaMetaEditor",
-			"Path": "C:\\Users\\User\\Desktop\\MetaMeta\\Source\\MetaMetaEditor.Target.cs",
+			"Path": "C:\\Users\\User\\Documents\\GitHub\\RGB_FinalProject\\MetaMeta\\Source\\MetaMetaEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
