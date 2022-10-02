@@ -1,6 +1,6 @@
-C:\Users\User\Desktop\House\Intermediate\Build\Win64\UE4Editor\Development\House\Definitions.House.h
-C:\Users\User\Desktop\House\Source\House\HouseProjectile.h
-C:\Users\User\Desktop\House\Intermediate\Build\Win64\UE4Editor\Inc\House\HouseProjectile.generated.h
+C:\Users\sioni\Documents\GitHub\RGB_FinalProject\House\Intermediate\Build\Win64\UE4Editor\Development\House\Definitions.House.h
+C:\Users\sioni\Documents\GitHub\RGB_FinalProject\House\Source\House\HouseProjectile.h
+C:\Users\sioni\Documents\GitHub\RGB_FinalProject\House\Intermediate\Build\Win64\UE4Editor\Inc\House\HouseProjectile.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
