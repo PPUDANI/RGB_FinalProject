@@ -1,2 +1,0 @@
-C:\Users\sioni\Documents\GitHub\RGB_FinalProject\House\Intermediate\Build\Win64\UE4Editor\Development\House\Definitions.House.h
-C:\Users\sioni\Documents\GitHub\RGB_FinalProject\House\Source\House\House.h
