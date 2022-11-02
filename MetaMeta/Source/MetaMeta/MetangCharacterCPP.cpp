@@ -18,7 +18,7 @@ AMetangCharacterCPP::AMetangCharacterCPP()
 
 	TPSCameraComponent = CreateDefaultSubobject<UCameraComponent>(TEXT("TPSCamera"));
 	TPSCameraComponent->SetupAttachment(TPSCameraSpringArmComponent, USpringArmComponent::SocketName);
-}
+} 
 
 // Called when the game starts or when spawned
 void AMetangCharacterCPP::BeginPlay()
@@ -43,6 +43,8 @@ void AMetangCharacterCPP::SetupPlayerInputComponent(UInputComponent* PlayerInput
 	InputComponent->BindAxis("MoveRight", this, &AMetangCharacterCPP::MoveRight);
 	InputComponent->BindAxis("Turn", this, &AMetangCharacterCPP::AddControllerYawInput);
 	InputComponent->BindAxis("LookUp", this, &AMetangCharacterCPP::AddControllerPitchInput);
+	InputComponent->BindAction("Jump", IE_Pressed, this, &AMetangCharacterCPP::StartJump);
+	InputComponent->BindAction("Jump", IE_Released, this, &AMetangCharacterCPP::StopJump);
 }
 
 void AMetangCharacterCPP::MoveForward(float AxisValue)
@@ -53,5 +55,15 @@ void AMetangCharacterCPP::MoveForward(float AxisValue)
 void AMetangCharacterCPP::MoveRight(float AxisValue)
 {
 	AddMovementInput(GetActorRightVector(), AxisValue);
+}
+
+void AMetangCharacterCPP::StartJump()
+{
+	bPressedJump = true;
+}
+
+void AMetangCharacterCPP::StopJump()
+{
+	bPressedJump = false;
 }
 

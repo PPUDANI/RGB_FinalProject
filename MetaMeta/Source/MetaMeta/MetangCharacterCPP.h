@@ -37,4 +37,12 @@ public:
 
 	UPROPERTY(VisibleAnyWhere)
 	class UCameraComponent* TPSCameraComponent;
+
+	// 키를 누르면 점프 플래그를 설정합니다.
+	UFUNCTION()
+		void StartJump();
+
+	// 키를 떼면 점프 플래그를 지웁니다.
+	UFUNCTION()
+		void StopJump();
 };
